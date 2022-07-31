@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ma1gus or just Kirill
+- 👀 I’m interested in writning code. hiking, music, computer games
