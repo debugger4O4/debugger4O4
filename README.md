@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ma1gus
-- 👀 I’m interested in writning code, hiking, writning music
+- 👋 Hi;
+- 👀 I’m interested in writning code, hiking, writning music;
