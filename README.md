@@ -8,5 +8,5 @@
 
 ## YouTube channel
 <a href="https://www.youtube.com/channel/UCdE7vhTg9F_0fpWRMNQ98LA">
-  <img align="center" style="margin:0.5rem" src="https://editors.dexerto.com/wp-content/uploads/2022/01/02/youtube-black-logo.jpg" alt="YouTube channel" />
+  <img align="center" style="margin:0.5rem" src="https://sun9-26.userapi.com/-C7yOoqbRkYXlDV_yBpfA9GGYEmu003E2P5a_g/8PNUsKt2buk.jpg" alt="YouTube channel" />
 </a>
