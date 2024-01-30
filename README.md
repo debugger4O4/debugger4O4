@@ -1,5 +1,5 @@
 - 👋 Hi;
-- 👀 I’m interested in writning code, hiking, writning music;
+- 👀 I’m interested in writning code, hiking, writning music(multi-instrumentalist);
 
 ## Codewars profile
 <a href="https://www.codewars.com/users/desnicaVe1esa">
