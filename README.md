@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi)](https://git.io/typing-svg)
-- 👀 I’m interested in writning code, hiking, writning music(multi-instrumentalist);
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Astloch&size=50&pause=1000&color=10BB25&random=false&width=600&height=80&separator=%3C&lines=%F0%9F%91%8B+Hi%3C%F0%9F%91%80+I%E2%80%99m+interested+in+writning+code%2C+hiking%2C+writning+music(multi-instrumentalist);)](https://git.io/typing-svg)
 
 ## Codewars profile
 <a href="https://www.codewars.com/users/desnicaVe1esa">
